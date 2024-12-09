@@ -1,7 +1,23 @@
-{
-  "schemaVersion": 1,
-  "hotfixesFormat": null,
-  "versions": [
- 
-  ]
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "versions": [
+        {
+            "id": "3.0",
+            "releasedAt": "1719343923",
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/optimus/version/3.0"
+                }
+            }
+        },
+        {
+            "id": "3.1",
+            "releasedAt": "1719841034",
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/optimus/version/3.1"
+                }
+            }
+        }
+    ]
 }
