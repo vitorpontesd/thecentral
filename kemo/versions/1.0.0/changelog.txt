@@ -1,8 +1,0 @@
-- Added Dark Mode
-- Revamped default resource pack
-- Removed Modsets
-- Adopted Xaero's as default minimap
-- Adopted Simple Voice Chat
-- Removed mods that didnt update to 1.21
-- Replaced Smooth Scrolling Everywhere with Smooth Scrolling
-- Added mod to prevent options.txt from being overriden with every update
